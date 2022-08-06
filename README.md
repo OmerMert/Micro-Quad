@@ -1,2 +1,2 @@
 # Micro-Quad
-Micro Quadcopter Controlled from Smartphone using NodeMCU
+Micro Quadcopter Controlled from Smartphone with NodeMCU
